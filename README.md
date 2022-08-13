@@ -13,4 +13,10 @@
   <img align="center" alt="Juh-robot" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_robotframework_icon_130193.png">
   <img align="center" alt="Juh-pytest" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg">
  
+  ##
+ 
+<div> 
+ <a href = "mailto:juka.bueno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/juliana-cecilia-bueno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
   
