@@ -1,4 +1,4 @@
-## Eu sou estudante em Testes Automatizados e Qualidade de Software!
+
 
 <div align="center">
   <a href="https://https://github.com/AntonioJunior1983">
@@ -21,7 +21,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-p
   ##
  
 <div> 
- <a href = "mailto:juka.bueno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
   <a href="https://www.linkedin.com/in/antonio-wagner-de-souza-junior-74aaba81" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   
