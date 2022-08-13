@@ -11,7 +11,9 @@
   <img align="center" alt="Juh-selenium" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
 
   <img align="center" alt="Juh-robot" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_robotframework_icon_130193.png">
-  <img align="center" alt="Juh-pytest" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg">
+  <img align="center" alt="Juh-java" height="60" width="60" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+   
  
   ##
  
